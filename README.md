@@ -11,7 +11,9 @@ The view the tutorials you can use the excellent [nbviewer](https://nbviewer.jup
 
 ## Running the tutorials
 
-The easiest way to run the code in the tutorials and experiment with it (you are most encourage to do so!), is to run it on a server in your browser. To do this simply follow the link:
+The easiest way to run the code in the tutorials and experiment with it (you are most encourage to do so!), is to run it on a server in your browser. To do this simply click on the button below:
+
+ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/btel/python-in-neuroscience-tutorials) 
 
 ## Running the tutorials locally
 
