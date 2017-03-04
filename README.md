@@ -44,6 +44,6 @@ The tutorials are created collaboratively by computational neuroscience communit
 
 ## Citing
 
-To cite us you can use Zenodo DOI:
+To cite the tutorials you can use Zenodo's DOI:
 
-    Bartosz Telenczuk, 2017. Python in neuroscience - tutorials. doi:10.5281/zenodo.345422
+    Bartosz Telenczuk, 2017. Python in neuroscience - tutorials. Zenodo. doi:10.5281/zenodo.345422
