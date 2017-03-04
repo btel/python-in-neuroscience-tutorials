@@ -1,5 +1,8 @@
 # Python in neuroscience
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.345422.svg)](https://doi.org/10.5281/zenodo.345422)
+
+
 "Python in neuroscience" is a collection of collaboratively-edited tutorials on computational neuroscience methods using Pythhon language. Each tutorial is presented as a [literate programming](https://en.wikipedia.org/wiki/Literate_programming) tutorial mixing text, code and figures. The tutorials offer introduction both to basic methods of computational neuroscience and scientific programming in Python. They are authored in the environment called [Jupyter notebook](https://jupyter.org/) -- you can even [try it](https://try.jupyter.org/) in your browser!
 
 ## Viewing the tutorials
@@ -38,3 +41,9 @@ A web  page with the tutorials should open in your browser (don't close your ter
 ## Contributing
 
 The tutorials are created collaboratively by computational neuroscience community. You are most encourage to contribute your ideas, corrections or new tutorials! All development is done on Github, so you can suggest changes on the Github issues page for this project. To edit or add new tutorials we follow the Github "fork & pull request" model. 
+
+## Citing
+
+To cite us you can use Zenodo DOI:
+
+    Bartosz Telenczuk, 2017. Python in neuroscience - tutorials. doi:10.5281/zenodo.345422
