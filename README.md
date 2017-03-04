@@ -4,7 +4,7 @@
 
 ## Viewing the tutorials
 
-The view the tutorials you can use the excellent [nbviewer](https://nbviewer.jupyter.org/). To go to the table of contents follow the link:
+The view the tutorials you can use the excellent [nbviewer](https://nbviewer.jupyter.org/). To go to the table of contents follow the [link](https://nbviewer.jupyter.org/github/btel/python-in-neuroscience-tutorials/blob/master/index.ipynb).
 
 (You can also open them on Github, but nbviewer gives a nicer user experience).
 
