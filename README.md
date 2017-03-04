@@ -21,7 +21,9 @@ If you are more serious about the tutorials and want to keep the changes that yo
 
 ### Installation
 
-To run the tutorials locally, you need to install the scientific Python ecosystem. We recommend the free Python distribution called anaconda. Next, download the [latest] release of the tutorials and unpack them. 
+To run the tutorials locally, you need to install the scientific Python ecosystem. We recommend the free Python distribution called [anaconda](https://www.continuum.io/downloads). Please download and install Python 3.x version of anaconda for your platform.
+
+After having installed anaconda, download the [latest](https://github.com/btel/python-in-neuroscience-tutorials/releases/latest) release of the tutorials and unpack them. 
 
 ### Opening the tutorials
 
@@ -31,7 +33,7 @@ Then open your terminal (for example, using the builtin Terminal.app in MacOS, o
 jupyter notebook
 ```
 
-A web  page with the tutorials should open in your browser (the web page is served locally from the directory, so all changes you save in the notebook are directly visible in your local files). Please navigate to `index.ipynb` to open the table of contents.
+A web  page with the tutorials should open in your browser (don't close your terminal). The web page with the tutorials is served locally from the directory, where you started `jupyter notebook` and all changes you save in the notebook are directly visible in your local files. Please navigate to `index.ipynb` to open the table of contents.
 
 ## Contributing
 
